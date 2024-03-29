@@ -12,8 +12,7 @@ public interface NotificationAPI {
 
     @Headers(
             {
-                    "Content-Type:application/json",
-                    "Authorization:key=XXXXXXXXXXXXXXXXXXXXXXXXXXXX" // Replace with your server key from Firebase Console
+                    AAAAC7XvVQc:APA91bGSK_Fdscz88GNeGBxW0GNHiaABBgwtkNU3OBv5xcGF0OPz7CDX24A_wzH8zldKV_E1sfUNKSY7DZ9b2NWx7C-JpmK0weSa4CVidZYc6NxNtMN1hHQEMou2Bj3prPUqObBmTVEX // Replace with your server key from Firebase Console
             }
     )
 
